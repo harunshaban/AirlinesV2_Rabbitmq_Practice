@@ -1,15 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "RKIEZSwXsgmDvwneFssLgyyxMcx5IWmtu+T1qzdb6vdEGPMQa/MLkomUBiz3reR6PBugONCcb+x//yhTKS23YQ==",
+  "dgSpecHash": "6G97UiEGnx0adlEqDBsnGcw+m5AIO81dhaYhXaa9Elvw2EIiFfbxrhzbY79gGZv+OzI+9s7UC6rhyKZApgXl/A==",
   "success": true,
   "projectFilePath": "C:\\Users\\harun\\source\\repos\\AirlinesV2_Rabbitmq_Practice\\FormulaAirline.API\\FormulaAirline.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harun\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\harun\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\harun\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\harun\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\harun\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\harun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\harun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\harun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\harun\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\harun\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
