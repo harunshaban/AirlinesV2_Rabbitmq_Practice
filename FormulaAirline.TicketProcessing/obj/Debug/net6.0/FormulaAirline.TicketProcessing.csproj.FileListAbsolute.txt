@@ -13,3 +13,6 @@ C:\Users\harun\source\repos\AirlinesV2_Rabbitmq_Practice\FormulaAirline.TicketPr
 C:\Users\harun\source\repos\AirlinesV2_Rabbitmq_Practice\FormulaAirline.TicketProcessing\obj\Debug\net6.0\FormulaAirline.TicketProcessing.pdb
 C:\Users\harun\source\repos\AirlinesV2_Rabbitmq_Practice\FormulaAirline.TicketProcessing\obj\Debug\net6.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
 C:\Users\harun\source\repos\AirlinesV2_Rabbitmq_Practice\FormulaAirline.TicketProcessing\obj\Debug\net6.0\ref\FormulaAirline.TicketProcessing.dll
+C:\Users\harun\source\repos\AirlinesV2_Rabbitmq_Practice\FormulaAirline.TicketProcessing\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\harun\source\repos\AirlinesV2_Rabbitmq_Practice\FormulaAirline.TicketProcessing\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\harun\source\repos\AirlinesV2_Rabbitmq_Practice\FormulaAirline.TicketProcessing\obj\Debug\net6.0\FormulaAirline.TicketProcessing.csproj.CopyComplete
